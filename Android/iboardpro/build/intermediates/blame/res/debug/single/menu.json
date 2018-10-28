@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\instagramLibrary\\build\\intermediates\\bundles\\default\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

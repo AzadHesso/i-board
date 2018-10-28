@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: appnextTrackingSDK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/iboardpro/libs/appnextTrackingSDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

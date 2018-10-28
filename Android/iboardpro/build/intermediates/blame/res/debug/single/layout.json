@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\progress_layout.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\progress_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\f6c5c9f243a52fe1b139d620942ed00a94342aa2\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\tag_feeds_view.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\tag_feeds_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\follow_by_list_item.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\follow_by_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\landing_screen.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\landing_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_preview.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\fragment_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\followed_by_listitemonly.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\followed_by_listitemonly.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\nearbyfeedsitem.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\nearbyfeedsitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\d1044242e3ca5cb5fe2252162a69f7b213a94fcf\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_multi.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\layout_dialog_multi.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\fan_fragments.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\fan_fragments.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\photo_bucket.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\photo_bucket.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\location_search_item.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\location_search_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\f6c5c9f243a52fe1b139d620942ed00a94342aa2\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\apikeydialog.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\apikeydialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_changelocation.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\dialog_changelocation.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\tag_search_ui.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\tag_search_ui.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\account_item.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\account_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\load_more_footer.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\load_more_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\d1044242e3ca5cb5fe2252162a69f7b213a94fcf\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\d1044242e3ca5cb5fe2252162a69f7b213a94fcf\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\d1044242e3ca5cb5fe2252162a69f7b213a94fcf\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\banner_ad_listitem.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\banner_ad_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\intro_viewpager_item.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\intro_viewpager_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\footer.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\photo_bucket_listitem.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\photo_bucket_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\feeds_list_item.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\feeds_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\log_in.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\layout_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\height_dialog_listitem.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\height_dialog_listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\left_footer.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\left_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\instagramLibrary\\build\\intermediates\\bundles\\default\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_multi_item.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\dialog_multi_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\mutuqal_list_item.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\mutuqal_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\copy_follows_fragment.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\copy_follows_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_single.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\layout_dialog_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\fans_listitems.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\fans_listitems.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\tag_search_item.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\tag_search_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\f6c5c9f243a52fe1b139d620942ed00a94342aa2\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_radio.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\layout_dialog_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\my_moments_gridview.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\my_moments_gridview.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_layout.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\schedule_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_followers.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\fragment_followers.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_feed.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\fragment_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\configurekey.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\configurekey.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\tag_feed_items.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\tag_feed_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\keyhelp.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\keyhelp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\follow_list_item.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\follow_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\photo_view.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\photo_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\mutual.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\mutual.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\nearbysearch.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\layout\\nearbysearch.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    }
+]

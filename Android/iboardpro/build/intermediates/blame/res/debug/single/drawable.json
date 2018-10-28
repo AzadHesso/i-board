@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\new_community.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\new_community.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\default_image.png",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\default_image.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\button_pressed.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\button_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\f6c5c9f243a52fe1b139d620942ed00a94342aa2\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\button_normal.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\button_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonbg.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\buttonbg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\dot.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\headerbg.jpeg",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\headerbg.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\new_sales.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\new_sales.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\costum_progress_bar.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\costum_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\new_apps.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\new_apps.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\account_image.jpg",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\account_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\f6c5c9f243a52fe1b139d620942ed00a94342aa2\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\header_image_2.jpg",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\header_image_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\iboardpro.png",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\iboardpro.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\editbox_background_normal.9.png",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\editbox_background_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_shadow.9.png",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\bottom_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\pxlimage.png",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\pxlimage.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\buttnbgnormal.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\buttnbgnormal.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\intro_elipseshadow_img.png",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\intro_elipseshadow_img.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\f6c5c9f243a52fe1b139d620942ed00a94342aa2\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_send.png",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\ic_menu_send.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\new_blog.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\new_blog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_mask.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\circle_mask.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\f6c5c9f243a52fe1b139d620942ed00a94342aa2\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\new_bookmark.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\new_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\header_image.jpg",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\header_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\viewPagerLib\\build\\intermediates\\bundles\\default\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonbgpressed.xml",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\buttonbgpressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\find.png",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable\\find.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\2b8212cb12d1e4ee711037ff1612fb7aca3b6b2b\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    }
+]

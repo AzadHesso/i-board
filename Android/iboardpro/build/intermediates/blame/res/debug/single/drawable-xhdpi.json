@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\searchicon.png",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable-xhdpi\\searchicon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\iboardpro2.png",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable-xhdpi\\iboardpro2.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cameraicon.png",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable-xhdpi\\cameraicon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\side_arrow.png",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable-xhdpi\\side_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\connect_with_instagram.png",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable-xhdpi\\connect_with_instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\user_default.png",
+        "source": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\src\\main\\res\\drawable-xhdpi\\user_default.png"
+    }
+]

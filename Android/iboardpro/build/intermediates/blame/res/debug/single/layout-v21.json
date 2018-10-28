@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\f6c5c9f243a52fe1b139d620942ed00a94342aa2\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\f6c5c9f243a52fe1b139d620942ed00a94342aa2\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\f6c5c9f243a52fe1b139d620942ed00a94342aa2\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\android-instagram\\i-board\\Android\\iboardpro\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\User\\.android\\build-cache\\f6c5c9f243a52fe1b139d620942ed00a94342aa2\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

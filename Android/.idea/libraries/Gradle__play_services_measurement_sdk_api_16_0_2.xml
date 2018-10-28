@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: play-services-measurement-sdk-api-16.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/0cee11becce2b3069d4b3f07f60c200e757a6e76/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/0cee11becce2b3069d4b3f07f60c200e757a6e76/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

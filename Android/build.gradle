@@ -9,6 +9,8 @@ buildscript {
     }
 }
 
+    //azad
+
 allprojects {
     repositories {
         mavenLocal()
